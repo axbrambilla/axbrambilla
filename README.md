@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey :)
 
-<!--
-**axbrambilla/axbrambilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me</h2>
+I'm Alexandre Brambilla, a QA Specialist with 10+ years of experience. I have worked in multiple projects along these years and have improved not only my tech skills 💻 but also my social skills 🗣️ as I was fortunate enough to work with amazing people from around the globe 🌎.
 
-Here are some ideas to get you started:
+<h2> Things I am passionate about </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automation 🤖
+- Human Behavior 🧠
+- My pets 🐶😺😺
+
+<h2>Automation Repositories</h2>
+If you'd like, you can check out some of my public repositories. 
+
+They showcase a few examples of how I approach test automation.
+
+<h2>Get in touch</h2
+
+You can reach out to me through my [Linkedin](https://www.linkedin.com/in/alexandre-brambilla) profile or my personal 
+[e-mail](alexandrebrambilla@gmail.com) (alexandrebrambilla@gmail.com) . 
+<hr/>
+
+
+
+Before you go, here's a photo of my cats:
+
+![cats](https://user-images.githubusercontent.com/94017070/209382436-221db9e3-4783-4fc7-82a4-f2a09b2064c2.jpeg)
