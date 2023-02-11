@@ -19,9 +19,3 @@ They showcase a few examples of how I approach test automation.
 You can reach out to me through my [Linkedin](https://www.linkedin.com/in/alexandre-brambilla) profile or my personal 
 [e-mail](alexandrebrambilla@gmail.com) (alexandrebrambilla@gmail.com) . 
 <hr/>
-
-
-
-Before you go, here's a photo of my cats:
-
-![cats](https://user-images.githubusercontent.com/94017070/209382436-221db9e3-4783-4fc7-82a4-f2a09b2064c2.jpeg)
