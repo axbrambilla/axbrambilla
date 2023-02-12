@@ -19,3 +19,6 @@ They showcase a few examples of how I approach test automation.
 You can reach out to me through my [Linkedin](https://www.linkedin.com/in/alexandre-brambilla) profile or my personal 
 [e-mail](alexandrebrambilla@gmail.com) (alexandrebrambilla@gmail.com) . 
 <hr/>
+
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=axbrambilla&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
